@@ -1,16 +1,23 @@
-## Hi there 👋
+# About me
+# Jess Denning
 
-<!--
-**JDenning90/JDenning90** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## Education
+- BSc Biological Anthropology 🦴
+- MMedSci Human Nutrition 🥦
+- MSc Health Data Science (Studying) 📊
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Work
+After years working in healthcare and research, I am a lay communications specialist. I write accesisble health information for people with cystic fibrosis, and teach academics and researchers how to communciate with the public about their research.
+I'm currenlty studing health data science to return to a more science centred career.
+
+## I speak
+🇬🇧 🇪🇸 and learning 🇵🇱
+
+## Hobbies
+I've got more hobbies than time but I enjoy getting out in nature, foraging, hiking and wild swimming. I cook, bake, sew, paint, climb, run and lift heavy things to name but a few.
+
+## Prounouns 
+She/her
+
+
